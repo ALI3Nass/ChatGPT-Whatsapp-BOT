@@ -15,10 +15,10 @@ A flask app that:
 **prerequisite**
 
 Python
-  pip time
-  pip OS
-  pip flask
-  pip system
+  time
+  OS
+  flask
+  system
   playwright
 
 Go
